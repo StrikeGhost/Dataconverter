@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<film>
+<items>
+  <MARVEL content="id">1</MARVEL>
+  <MARVEL content ="title">The Incredible Hulk</MARVEL>
+  <MARVEL content ="release_date">2008-06-12</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">2</MARVEL>
+  <MARVEL content ="title">Iron Man</MARVEL>
+  <MARVEL content ="release_date">2008-04-30</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">3</MARVEL>
+  <MARVEL content="title">Iron Man 2</MARVEL>
+  <MARVEL content="release_date">2010-04-28</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">4</MARVEL>
+  <MARVEL content="title">Thor</MARVEL>
+  <MARVEL content="release_date">2011-04-21</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">5</MARVEL>
+  <MARVEL content="title">Captain America: The First Avenger</MARVEL>
+  <MARVEL content="release_date">2011-07-22</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">6</MARVEL>
+  <MARVEL content="title">The Avengers</MARVEL>
+  <MARVEL content="release_date">2012-04-25</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">7</MARVEL>
+  <MARVEL content="title">Iron Man 3</MARVEL>
+  <MARVEL content="release_date">2013-04-18</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">8</MARVEL>
+  <MARVEL content="title">Thor: The Dark World</MARVEL>
+  <MARVEL content="release_date">2013-10-29</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">9</MARVEL>
+  <MARVEL content="title">Captain America: The Winter Soldier</MARVEL>
+  <MARVEL content="release_date">2014-03-20</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">10</MARVEL>
+  <MARVEL content="title">Guardians of the Galaxy</MARVEL>
+  <MARVEL content="release_date">2014-07-30</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">11</MARVEL>
+  <MARVEL content="title">Avengers: Age of Ultron</MARVEL>
+  <MARVEL content="release_date">2015-04-22</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">12</MARVEL>
+  <MARVEL content="title">Ant-Man</MARVEL>
+  <MARVEL content="release_date">2015-07-14</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">>13</MARVEL>
+  <MARVEL content="title">Captain America: Civil War</MARVEL>
+  <MARVEL content="release_date">2016-04-27</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">14</MARVEL>
+  <MARVEL content="title">Doctor Strange</MARVEL>
+  <MARVEL content="release_date">2016-10-25</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">15</MARVEL>
+  <MARVEL content="title">Guardians of the Galaxy Vol. 2</MARVEL>
+  <MARVEL content="release_date">2017-04-19</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">16</MARVEL>
+  <MARVEL content="title">>Spider-Man: Homecoming</MARVEL>
+  <MARVEL content="release_date">2017-07-05</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">17</MARVEL>
+  <MARVEL content="title">>Thor: Ragnarok</MARVEL>
+  <MARVEL content="release_date">2017-10-25</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">18</MARVEL>
+  <MARVEL content="title">Black Panther</MARVEL>
+  <MARVEL content="release_date">2018-02-13</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">19</MARVEL>
+  <MARVEL content="title">Avengers: Infinity War</MARVEL>
+  <MARVEL content="release_date">2018-04-25</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">20</MARVEL>
+  <MARVEL content="title">Ant-Man and the Wasp</MARVEL>
+  <MARVEL content="release_date">2018-07-04</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">21</MARVEL>
+  <MARVEL content="title">Captain Marvel</MARVEL>
+  <MARVEL content="release_date">2019-03-08</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">22</MARVEL>
+  <MARVEL content="title">Avengers: Endgame</MARVEL>
+  <MARVEL content="release_date">2019-04-26</MARVEL>
+</items>
+<items>
+  <MARVEL content="id">23</MARVEL>
+  <MARVEL content="title">Spider-Man: Far From Home</MARVEL>
+  <MARVEL content="release_date">2019</MARVEL>
+</items>
+</film>
